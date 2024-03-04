@@ -1,0 +1,78 @@
+
+  
+    { role: "system", content :"The grade RR fees are R1250 per month and R15000 per year." },
+  ,
+  
+    { role: "system", content : "The grade R fees are R1250 per month and R15000 per year." },
+  ,
+  
+    { role: "system", content : "The grade 1 fees are R1350 per month and R16200 per year." },
+  ,
+  
+    { role: "system", content : "The grade 2 fees are R1550 per month and R18600 per year." },
+  ,
+  
+    { role: "system", content : "The grade 3 fees are R1550 per month and R18600 per year." },
+  ,
+  
+    { role: "system", content :  "The grade 4 fees are R1650 per month and R19800 per year." },
+  ,
+  
+    { role: "system", content : "The grade 5 fees are R1650 per month and R19800 per year." },
+  ,
+  
+    { role: "system", content : "The grade 6 fees are R1650 per month and R19800 per year." },
+  ,
+  
+    { role: "system", content : "The grade 7 fees are R1750 per month and R21000 per year." },
+  ,
+  
+    { role: "system", content :  "The grade 8 fees are R1750 per month and R21000 per year." },
+  ,
+  
+    { role: "system", content :  "The grade 9 fees are R1750 per month and R21000 per year." },
+  ,
+  
+    { role: "system", content : "The grade 10 fees are R1950 per month and R23400 per year." },
+  ,
+  
+    { role: "system", content :"The grade 11 fees are R1950 per month and R23400 per year." },
+  ,
+  
+    { role: "system", content :  "The grade 12 fees are R1950 per month and R23400 per year." },
+  ,
+  
+    { role: "system", content :  "Madrasah fees are R1950 per month and R23400 per year." },
+  ,
+  
+    { role: "system", content : "There is a three-day processing period between application and acceptance." },
+  
+    { role: "system", content : "Definitely! Not only will the student be able to apply locally, he/she can apply internationally as well. There are rules for entry into South African universities as set out by USAF [Universities of South Africa]. Don’t stress, we’ve studied them and will guide you accordingly, Allah Willing." },
+  ,
+  
+    { role: "system", content : "No. One could add Islamic studies to their schooling or pursue our Islamic Studies curriculum [Madrasah] on its own." },
+  
+    { role: "system", content : " We offer Grades R to 12 and are accredited by SACAI." },
+  ,
+  
+    { role: "system", content : "Lessons are pre-recorded and made available to learners via the Learner Management System (LMS). A live session will be held at regular intervals for additional support." },
+  ,
+  
+    { role: "system", content : "Learners will use the recording, assessments, and any material required as per their schedule of work that will be drawn up and shared with them by the facilitator." },
+  ,
+  
+    { role: "system", content : "The pre-recorded lectures are long enough to cover a concept, which could be 10-15 minutes but could extend to a maximum of 30 minutes." },
+  ,
+  
+    { role: "system", content : "No. Students see the virtual smart board with presentations, live annotations, etc. They engage with the lecturer via the microphone, text chat, and other means." },
+  ,
+  
+    { role: "system", content : "Practicals will be recorded by the lecturer in laboratories, and the video will be made available to learners. Further investigation and discussion have been initiated with course developers in achieving the best way to approach such an activity." },
+  ,
+  
+    { role: "system", content :  "You will receive invoices which will contain a link to remit payment via Payfast, a portal where you can pay by EFT, debit, or credit card." },
+  ,
+  
+    { role: "system", content : "For fincial queries Send an email to finance@qurtubaonline.co.za or hit the help widget, or you can call our office on (+27) 10 109 1784." },
+  ,
+];
